@@ -1,0 +1,10 @@
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\bin\Debug\SCCM Application Catalog.exe
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\bin\Debug\SCCM Application Catalog.pdb
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\obj\Debug\SCCM Application Catalog.exe
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\obj\Debug\SCCM Application Catalog.pdb
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM Application Catalog\obj\Debug\SCCM Application Catalog.exe
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM Application Catalog\obj\Debug\SCCM Application Catalog.pdb
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\obj\Debug\SCCM Application Catalog.exe
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\obj\Debug\SCCM Application Catalog.pdb
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\bin\Debug\SCCM Application Catalog.exe
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\bin\Debug\SCCM Application Catalog.pdb

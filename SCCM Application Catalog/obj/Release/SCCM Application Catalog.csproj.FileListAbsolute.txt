@@ -1,0 +1,10 @@
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\bin\Release\SCCM Application Catalog.exe
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\bin\Release\SCCM Application Catalog.pdb
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\obj\Release\SCCM Application Catalog.csprojResolveAssemblyReference.cache
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\obj\Release\SCCM Application Catalog.exe
+c:\users\jgeat\documents\visual studio 2015\Projects\SCCM Application Catalog\SCCM Application Catalog\obj\Release\SCCM Application Catalog.pdb
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\obj\Release\SCCM Application Catalog.exe
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\obj\Release\SCCM Application Catalog.pdb
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\bin\Release\SCCM Application Catalog.exe
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\bin\Release\SCCM Application Catalog.pdb
+C:\Users\jgeau\Documents\GitHub\BuildEngineering\SCCM Application Catalog\SCCM-Application-Catalog\SCCM Application Catalog\obj\Release\SCCM Application Catalog.csprojResolveAssemblyReference.cache
